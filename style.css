@@ -24,10 +24,10 @@ body{
 
 .container{
     position: relative;
-    /* width: 400px;
-    height: 105px; */
-    width: 24rem;
-    height: 2rem;
+    width: 400px;
+    height: 105px;
+    /* width: 24rem;
+    height: 2rem; */
     background: #fff;
     padding: 28px 32px;
     /* padding: 2rem ; */
